@@ -8,9 +8,10 @@ console.log('my Age is' + ' '+ person.Age + ' '+ 'Year old');
 console.log('my Address is' + ' '+ person.Address);
  
 function myEdge(Edge) {
-let=result;{
-if (Edge<19)
-result='I am Tynager';}
-{else
- result='I am edult';}
+let=result;
+if (Edge<19){
+console.log('I am Tynager');}
+else {
+ console.log('I am edult');
+}
  console.log(result);}
