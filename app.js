@@ -4,7 +4,7 @@ console.log(s);
 
 const person={Name: "Natia", Edge: "25", Address: "Tbilisi"};
 console.log('my Name is' + ' '+ person.Name);
-console.log('my Age is' + ' '+ person.Age + ' '+ 'Year old');
+console.log('my Age is' + ' '+ person.Edge + ' '+ 'Year old');
 console.log('my Address is' + ' '+ person.Address);
  
 function myEdge(Edge) {
